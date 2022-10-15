@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int[] array = {2, 5, 99, 22, 13, 15};
+        int[] array = {1, 2, 3, 4, 5, 6};
         int[] newArray = new int[array.length + 1];
         int inputIndex = 0;
         Scanner scanner = new Scanner(System.in);
